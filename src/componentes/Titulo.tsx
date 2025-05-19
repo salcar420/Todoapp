@@ -1,6 +1,6 @@
-const titulo=()=>{
+const Titulo=()=>{
 
-
+ return <h1>TODO APP</h1>
 }
 
-export default titulo 
+export default Titulo 
